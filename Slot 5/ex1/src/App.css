@@ -1,0 +1,31 @@
+.container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;   
+  align-items: center;
+
+  background-color: #ffffff;
+}
+
+.container h1 {
+  margin: 0;
+  font-size: 4rem;
+  font-weight: 400;
+  color: #000000;
+}
+
+.highlight {
+  color: #0059ff;
+  font-weight: 700;
+}
+
+.carousel-caption {
+  background: rgba(0, 0, 0, 0.4);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.carousel-caption h2 {
+  font-weight: bold;
+  font-size: 2rem;
+}

@@ -1,0 +1,52 @@
+.card-body {
+    background-color: #f8f9fa;
+    color: #343a40;
+    text-align: center;           
+    padding: 20px !important;
+    width: 100% !important;        
+    display: flex;
+    flex-direction: column;        
+    flex-grow: 1;   
+    font-family: Arial;              
+}
+
+.pizza-image {
+    width: 416px;
+    height: 286px;
+    border-radius: 5px;
+    box-shadow: inset 5px 5px 10px rgba(0, 0, 0, 0.1);
+}
+
+.button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: auto;
+}
+
+.card-body {
+    background-color: #f8f9fa;
+    color: #343a40;
+    text-align: center;
+    width: 286px;
+    height: 166px; 
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+}
+
+.btn-secondary.button {
+    background-color: #020910 !important;
+    color: pink !important;
+    border: none !important;
+    padding: 10px 20px !important;
+    border-radius: 5px !important;
+    cursor: pointer;
+    margin-top: auto !important; 
+
+}
+
+
